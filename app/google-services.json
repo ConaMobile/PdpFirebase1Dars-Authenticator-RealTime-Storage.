@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698197915453",
+    "project_id": "pdpfirebase1dars",
+    "storage_bucket": "pdpfirebase1dars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698197915453:android:bc733bc918a25f743d7754",
+        "android_client_info": {
+          "package_name": "com.conamobile.pdpfirebase1dars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698197915453-ftoaejref3lf81472ss0d1j1vadq3fau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBc2km6UIh3KoH6_-N2PMiwxrBkAdG8Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698197915453-ftoaejref3lf81472ss0d1j1vadq3fau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
